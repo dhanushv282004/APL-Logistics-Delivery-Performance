@@ -1,0 +1,11 @@
+KPI,Value,Definition
+On-Time Delivery Rate (%),42.71003964923451,Non-cancelled orders with actual days <= scheduled days
+Average Delivery Delay (Days),0.5654964836627789,Mean actual minus scheduled days across non-cancelled deliveries
+Average Delay (Delayed Orders Only),1.6181840225506936,Mean positive delay gap among delayed deliveries
+Late Delivery Risk Ratio (%),54.82913155955883,Mean Late_delivery_risk across all core-valid orders
+Shipping Mode Efficiency Index - Standard Class,60.23091912014193,100 × on-time-or-early rate
+Shipping Mode Efficiency Index - Same Day,52.07145163025933,100 × on-time-or-early rate
+Shipping Mode Efficiency Index - Second Class,20.17097556646749,100 × on-time-or-early rate
+Shipping Mode Efficiency Index - First Class,0.0,100 × on-time-or-early rate
+Top Region Delay Index (among regions >=100 orders),104.98962555257111,Regional delay rate / overall delay rate × 100
+Bottom Region Delay Index (among regions >=100 orders),90.06582766174257,Regional delay rate / overall delay rate × 100
